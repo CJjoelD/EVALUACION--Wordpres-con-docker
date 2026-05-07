@@ -61,13 +61,10 @@ Diagrama de contenedores
 
 
 Evidencias
-<img width="1901" height="195" alt="image" src="https://github.com/user-attachments/assets/06b042de-ca03-4e9c-b732-382fa2aa7e34" />
+<img width="1918" height="1071" alt="Captura de pantalla 2026-05-07 182353" src="https://github.com/user-attachments/assets/f892f09c-f33a-4a7f-ae63-d44f08a08f57" />
+<img width="642" height="632" alt="Captura de pantalla 2026-05-07 182345" src="https://github.com/user-attachments/assets/287f9a1f-a487-457d-84b8-ff4e8dc1543a" />
+<img width="1901" height="195" alt="Captura de pantalla 2026-05-07 182319" src="https://github.com/user-attachments/assets/01c503b4-7240-4465-8a06-0504652bba1c" />
 
-phpMyAdmin
-<img width="642" height="632" alt="image" src="https://github.com/user-attachments/assets/a660a4a2-79cf-4639-8285-63d5eb7ec882" />
-
-wordpress
-<img width="1918" height="1071" alt="image" src="https://github.com/user-attachments/assets/227f680e-b435-4c5a-b834-b68d7b281ac5" />
 
 
 En esta práctica se implementó un entorno WordPress utilizando contenedores Docker. Se crearon contenedores independientes para MySQL, phpMyAdmin y WordPress, conectados mediante una red Docker personalizada. Además, se utilizaron volúmenes para mantener la persistencia de datos.
